@@ -9,37 +9,37 @@
 		"name": "Pizza Roma",
 		"price": 13.5,
 		"ingredients": ["farine","tomate","jambon"],
-		"image": "relaisDeLaPlace/pizzaRoma.jpg"
+		"image": "pizzaRoma.jpg"
 	  },
 	  {
 		"name": "Tagliatelle",
 		"price": 12.5,
 		"ingredients": ["pates","crevettes","persil"],
-		"image": "relaisDeLaPlace/tagliatelle.jpg"
+		"image": "tagliatelle.jpg"
 	  },
 	  {
 		"name": "Burrata",
 		"price": 6.5,
 		"ingredients": ["Burrata","salade","parmesan","olives noires"],
-		"image": "relaisDeLaPlace/Burrata.PNG"
+		"image": "Burrata.PNG"
 	  },
 	  {
 		"name": "Pizza Margherita",
 		"price": 10,
 		"ingredients": ["farine","Mozarella","Tomates","Basilic"],
-		"image": "relaisDeLaPlace/pizzaMargherita.PNG"
+		"image": "pizzaMargherita.PNG"
 	  },
 	  {
 		"name": "Pizza burrata",
 		"price": 10.25,
 		"ingredients": ["burrata","Tomates","Basilic","olives"],
-		"image": "relaisDeLaPlace/pizzaBurrata.png"
+		"image": "pizzaBurrata.png"
 	  },
 	  {
 		"name": "Chianti",
 		"price": 23,
 		"ingredients": ["vin","alcool 13%"],
-		"image": "relaisDeLaPlace/chianti.jpg"
+		"image": "chianti.jpg"
 	  }
 	]
 }

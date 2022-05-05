@@ -11,21 +11,21 @@
 			"price": 12,
 			"description" :"",
 			"ingredients":["poulet","carottes","soja"],
-			"image":"songSan/dolsotPoulet.PNG"
+			"image":"dolsotPoulet.PNG"
 		},
 		{
 			"name": "Boulgogi",
 			"price": 18,
 			"description"  : "émincé de boeuf sauce soja",
 			"ingredients":["boeuf","soja"],
-			"image":"songSan/boulgogi.PNG"
+			"image":"boulgogi.PNG"
 		},
 		{
 			"name": "Boulgogi poulet",
 			"price": 18,
 			"description"  : "blanc de poulet, sauce soja",
 			"ingredients":["poulet","soja"],
-			"image":"songSan/boulgogiPoulet.PNG"
+			"image":"boulgogiPoulet.PNG"
 		}
 	]
 }
