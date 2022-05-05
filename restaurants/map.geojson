@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Songsan",
+        "description": "songSan/restaurant.json",
+        "fill": "#00FFFF",
+        "infobox": true, "draggable": false
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.299350,48.836747]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "le relais",
+        "description": "relaisDeLaPlace/restaurant.json",
+        "fill": "#0000FF",
+        "infobox": true, "draggable": false
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.306638,48.836606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kenze'm",
+        "description": "Kenzem/restaurant.json",
+        "fill": "#00FF00",
+        "infobox": true, "draggable": false
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.305246,48.840398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ristorante_Roma",
+        "description": "1dnGox5Lk_RP17RxUImd3WJHmaaCRc-om",
+        "image": "pizza.svg",
+        "infobox": true, "draggable": false, "fill": "#0000FF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.339764,48.8721797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indiana Cafe",
+        "description": "IndianaCafe/restaurant.json",
+        "image": "hamburger.svg",
+        "infobox": true, "draggable": false, "fill": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3404284,48.8720813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Saotico",
+        "description": "LeSaotico/restaurant.json",
+        "image": "frenchFood.svg",
+        "infobox": true,"draggable": false,"fill": "#008000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3394846,48.870623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dominos Pizza",
+        "description": "DominosPizza/restaurant.json",
+        "image": "pizza.svg",
+        "infobox": true,"draggable": false,"fill": "#000080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3406323,48.870441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Atsu Atsu",
+        "description": "AtsuAtsu/restaurant.json",
+        "image": "sushi.svg",
+        "infobox": true,"draggable": false,"fill": "#800000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3392709,48.8701775]
+      }
+    }
+  ]
+}
+
+
+
