@@ -60,7 +60,7 @@
         "image": "pizza.svg",
         "infobox": true,
         "draggable": false,
-        "fill": "#ffa500 "
+        "fill": "#ffa500"
       },
       "geometry": {
         "type": "Point",
