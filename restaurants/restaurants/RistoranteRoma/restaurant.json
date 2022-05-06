@@ -1,0 +1,27 @@
+{
+	"title": "Le Roma",
+	"description": "Pizzeria et plats Italiens",
+	"address": "avenue du Maine, 75014 Paris",
+	"image": "image.jpg",
+    "telephone": "0600000004",
+    "email":"ristoranteRoma@paris.fr",
+	"items": [
+		{	"name": "pizza Margherita",	
+			"price": 8.40,
+			"ingredients":["Mozarella","champignons","tomate"],
+			"image":"margherita.PNG"
+		},
+		{	"name": "tagliatelles carbonara",
+			"price": 7.90,
+			"ingredients":["farine","viande hachée","tomate"],
+			"image":"carbonara.PNG"
+		},
+		{	"name": "Chianti",
+			"price": 13.5,
+			"ingredients":["raisin","alcool","sulfites"],
+			"image":"chianti.jpg"
+		}
+	]
+}
+
+
