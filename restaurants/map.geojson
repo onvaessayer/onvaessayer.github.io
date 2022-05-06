@@ -23,7 +23,7 @@
       "properties": {
         "title": "le relais",
         "description": "relaisDeLaPlace/restaurant.json",
-        "fill": "green",
+        "fill": "#0000FF",
         "infobox": true,
         "draggable": false
       },
