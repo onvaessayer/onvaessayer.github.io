@@ -38,23 +38,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kenze'm",
-        "description": "Kenzem/restaurant.json",
-        "fill": "#00FF00",
-        "infobox": true,
-        "draggable": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.305246,
-          48.840398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Ristorante Roma",
         "description": "RistoranteRoma/restaurant.json",
         "image": "pizza.svg",
