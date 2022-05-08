@@ -1,0 +1,15 @@
+  {
+    "image": "026.png",
+    "title": "Raichu",
+    "nom": "Raichu",
+    "description":"[Electric]",
+    "items": [
+      "HP: 60",
+      "Attack : 90",
+      "Defense : 55",
+      "Sp. Attack : 90",
+      "Sp. Defense : 80",
+      "Speed : 110"
+    ]
+  }
+ 

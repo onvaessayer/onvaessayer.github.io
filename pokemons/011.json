@@ -1,0 +1,15 @@
+  {
+    "image": "011.png",
+    "title": "Metapod",
+    "nom": "Chrysacier",
+    "description":"[Bug]",
+    "items": [
+      "HP: 50",
+      "Attack : 20",
+      "Defense : 55",
+      "Sp. Attack : 25",
+      "Sp. Defense : 25",
+      "Speed : 30"
+    ]
+  }
+ 

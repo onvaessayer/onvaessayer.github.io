@@ -1,0 +1,14 @@
+  {
+    "image": "002.png",
+    "title": "Ivysaur",
+    "nom": "Herbizarre",
+    "description":"[Grass ,Poison]",
+    "items": [
+      "HP : 60",
+      "Attack : 62",
+      "Defense : 63",
+      "Sp. Attack : 80",
+      "Sp. Defense : 80",
+      "Speed : 60"
+    ]
+  }

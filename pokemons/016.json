@@ -1,0 +1,15 @@
+  {
+    "image": "016.png",
+    "title": "Pidgey",
+    "nom": "Roucool",
+    "description":"[Normal,Flying]",
+    "items": [
+      "HP: 40",
+      "Attack : 45",
+      "Defense : 40",
+      "Sp. Attack : 35",
+      "Sp. Defense : 35",
+      "Speed : 56"
+    ]
+  }
+ 

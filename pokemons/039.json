@@ -1,0 +1,14 @@
+  {
+    "image": "039.png",
+    "title": "Jigglypuff",
+    "nom": "Rondoudou",
+    "description":"[Normal,Fairy]",
+    "items": [
+      "HP: 115",
+      "Attack : 45",
+      "Defense : 20",
+      "Sp. Attack : 45",
+      "Sp. Defense : 25",
+      "Speed : 20"
+    ]
+  }

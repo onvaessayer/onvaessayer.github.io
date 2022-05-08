@@ -1,0 +1,14 @@
+  {
+    "image": "048.png",
+    "title": "Venonat",
+    "nom": "Mimitoss",
+    "description":"[Bug,Poison]",
+    "items": [
+      "HP: 60",
+      "Attack : 55",
+      "Defense : 50",
+      "Sp. Attack : 40",
+      "Sp. Defense : 55",
+      "Speed : 45"
+    ]
+  }

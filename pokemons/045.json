@@ -1,0 +1,15 @@
+  {
+    "image": "045.png",
+    "title": "Vileplume",
+    "nom": "Rafflesia",
+    "description":"[Grass ,Poison]",
+    "items": [
+      "HP: 75",
+      "Attack : 80",
+      "Defense : 85",
+      "Sp. Attack : 110",
+      "Sp. Defense : 90",
+      "Speed : 50"
+    ]
+  }
+ 

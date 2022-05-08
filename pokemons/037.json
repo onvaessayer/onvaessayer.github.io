@@ -1,0 +1,14 @@
+  {
+    "image": "037.png",
+    "title": "Vulpix",
+    "nom": "Goupix",
+    "description":"[Fire]",
+    "items": [
+      "HP: 38",
+      "Attack : 41",
+      "Defense : 40",
+      "Sp. Attack : 50",
+      "Sp. Defense : 65",
+      "Speed : 65"
+    ]
+  }

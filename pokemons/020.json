@@ -1,0 +1,14 @@
+  {
+    "image": "020.png",
+    "title": "Raticate",
+    "nom": "Rattatac",
+    "description":"[Normal]",
+    "items": [
+      "HP: 55",
+      "Attack : 81",
+      "Defense : 60",
+      "Sp. Attack : 50",
+      "Sp. Defense : 70",
+      "Speed : 97"
+    ]
+  }

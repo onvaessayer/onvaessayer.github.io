@@ -1,0 +1,15 @@
+  {
+    "image": "038.png",
+    "title": "Ninetales",
+    "nom": "Feunard",
+    "description":"[Fire]",
+    "items": [
+      "HP: 73",
+      "Attack : 76",
+      "Defense : 75",
+      "Sp. Attack : 81",
+      "Sp. Defense : 100",
+      "Speed : 100"
+    ]
+  }
+ 
