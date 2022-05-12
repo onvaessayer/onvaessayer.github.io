@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "title": "Songsan",
-        "test": "test propoerty",
         "description": "songSan/restaurant.json",
         "fill": "#00FFFF",
         "infobox": "true",
