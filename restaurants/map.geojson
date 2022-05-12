@@ -6,7 +6,7 @@
       "properties": {
         "title": "Songsan",
         "description": "songSan/restaurant.json",
-        "fill": "#00FFFF",
+        "fill": "#00FFFF ",
         "infobox": "true",
         "draggable": false
       },
