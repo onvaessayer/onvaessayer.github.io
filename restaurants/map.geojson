@@ -4,11 +4,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "title": "Songsan",
         "description": "songSan/restaurant.json",
-        "fill": "orange",
+        "fill": "#00ffff",
         "infobox": "true",
-        "draggable": false
+        "draggable": "false"
       },
       "geometry": {
         "type": "Point",
