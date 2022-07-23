@@ -8,7 +8,7 @@
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/songSan/restaurant.json",
         "fill": "#FF0000",
 		"infobox": "true",
-        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/korean.png"
+		"image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/korean.png"
       },
       "geometry": {
         "type": "Point","coordinates": [2.29935,48.836747]
