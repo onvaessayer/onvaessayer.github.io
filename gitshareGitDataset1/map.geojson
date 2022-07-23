@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "title": "Songsan",
-        "description": "https://onvaessayer.github.io/restaurants/songSan/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/songSan/restaurant.json",
         "fill": "#FF0000",
         "infobox": "true",
-        "image": "https://onvaessayer.github.io/restaurants/icons/korean.png"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/korean.png"
       },
       "geometry": {
         "type": "Point",
@@ -19,10 +19,10 @@
       "type": "Feature",
       "properties": {
         "title": "le relais",
-        "description": "https://onvaessayer.github.io/restaurants/relaisDeLaPlace/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/relaisDeLaPlace/restaurant.json",
         "fill": "#0000FF",
         "infobox": true,
-        "image": "https://onvaessayer.github.io/restaurants/icons/restaurant32dp"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/restaurant32dp"
       },
       "geometry": {
         "type": "Point",
@@ -33,10 +33,10 @@
       "type": "Feature",
       "properties": {
         "title": "Ristorante Roma",
-        "description": "https://onvaessayer.github.io/restaurants/RistoranteRoma/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/RistoranteRoma/restaurant.json",
         "fill": "#ffa500",
         "infobox": true,
-        "image": "https://onvaessayer.github.io/restaurants/icons/pizza.png"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/pizza.png"
       },
       "geometry": {
         "type": "Point",
@@ -47,10 +47,10 @@
       "type": "Feature",
       "properties": {
         "title": "Indiana Cafe",
-        "description": "https://onvaessayer.github.io/restaurants/IndianaCafe/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/IndianaCafe/restaurant.json",
         "fill": "#FFFF00",
         "infobox": true,
-        "image": "https://onvaessayer.github.io/restaurants/icons/hamburger.png"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/hamburger.png"
       },
       "geometry": {
         "type": "Point",
@@ -61,10 +61,10 @@
       "type": "Feature",
       "properties": {
         "title": "Le Saotico",
-        "description": "https://onvaessayer.github.io/restaurants/LeSaotico/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/LeSaotico/restaurant.json",
         "fill": "#008000",
         "infobox": true,
-        "image": "https://onvaessayer.github.io/restaurants/icons/frenchFood.png"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/frenchFood.png"
       },
       "geometry": {
         "type": "Point",
@@ -75,10 +75,10 @@
       "type": "Feature",
       "properties": {
         "title": "Dominos Pizza",
-        "description": "https://onvaessayer.github.io/restaurants/DominosPizza/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/DominosPizza/restaurant.json",
         "fill": "#446d44",
         "infobox": true,
-        "image": "https://onvaessayer.github.io/restaurants/icons/pizza.png"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/pizza.png"
       },
       "geometry": {
         "type": "Point",
@@ -89,10 +89,10 @@
       "type": "Feature",
       "properties": {
         "title": "Momoka",
-        "description": "https://onvaessayer.github.io/restaurants/momoka/restaurant.json",
+        "description": "https://onvaessayer.github.io/gitshareGitDataset1/momoka/restaurant.json",
         "fill": "#800000",
         "infobox": true,
-        "image": "https://onvaessayer.github.io/restaurants/icons/sushi.png"
+        "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/sushi.png"
       },
       "geometry": {
         "type": "Point",

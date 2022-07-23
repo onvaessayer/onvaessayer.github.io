@@ -3,7 +3,7 @@
 	"description": "cuisine italienne",
 	"address": "Alleray, Paris 15",
     "telephone": "0600000002",
-    "image": "http://onvaessayer.org/appinventor/apps/gitshare/resources/minidataset/relaisDeLaPlace/image.jpg",
+    "image": "https://onvaessayer.github.io/gitshareGitDataset1/relaisDeLaPlace/image.jpg",
 	"items": [
 		"Pizza Roma 13.5",
 		"Tagliatelle 12.5",
