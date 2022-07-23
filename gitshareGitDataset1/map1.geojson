@@ -6,9 +6,9 @@
       "properties": {
         "title": "Songsan",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/songSan/restaurant.json",
-        "fill": "#FF0000",
-		"infobox": "true",
-		"image": "korean.png"
+		"infobox": true
+		
+		
       },
       "geometry": {
         "type": "Point","coordinates": [2.29935,48.836747]
@@ -19,9 +19,9 @@
       "properties": {
         "title": "le relais",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/relaisDeLaPlace/restaurant.json",
-        "fill": "#0000FF",
-		"infobox": true,
-		"image": "pizza.png"
+		"infobox": true
+		
+		
       },
       "geometry": {
         "type": "Point","coordinates": [2.306638,48.836606]
@@ -32,9 +32,7 @@
       "properties": {
         "title": "Ristorante Roma",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/RistoranteRoma/restaurant.json",
-        "fill": "#ffa500",
-		"infobox": true,
-		"image": "pizza.png"
+		"infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.3223007,48.839529]
@@ -45,9 +43,7 @@
       "properties": {
         "title": "Indiana Cafe",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/IndianaCafe/restaurant.json",
-        "fill": "#FFFF00",
-		"infobox": true,
-		"image": "hamburger.png"
+		"infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.3643052,48.8268811]
@@ -58,9 +54,7 @@
       "properties": {
         "title": "Le Saotico",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/LeSaotico/restaurant.json",
-        "fill": "#008000",
-		"infobox": true,
-		"image": "frenchFood.png"
+		"infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.3394846,48.870623]
@@ -71,9 +65,7 @@
       "properties": {
         "title": "Dominos Pizza",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/DominosPizza/restaurant.json",
-        "fill": "#446d44",
-		"infobox": true,
-		"image": "pizza.png"
+		"infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.3727438,48.8678975]
@@ -84,9 +76,7 @@
       "properties": {
         "title": "Momoka",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/momoka/restaurant.json",
-        "fill": "#800000",
-		"infobox": true,
-		"image": "sushi.png"
+		"infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.3334827,48.8791916]
