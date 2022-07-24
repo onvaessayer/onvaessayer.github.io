@@ -21,7 +21,7 @@
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/relaisDeLaPlace/restaurant.json",
 		"infobox": true,
         "fill": "#0000FF",
-		"image": "pizza.png"
+		"image": "frenchFood.png"
       },
       "geometry": {
         "type": "Point","coordinates": [2.306638,48.836606]
@@ -72,7 +72,7 @@
         "title": "Dominos Pizza",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/DominosPizza/restaurant.json",
 		"infobox": true,
-        "fill": "#446d44",
+        "fill": "#b34db3",
 		"image": "pizza.png"
       },
       "geometry": {
