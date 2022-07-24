@@ -1,0 +1,14 @@
+
+{
+	"title": "SongSan",
+	"description": "Restaurant Coréen",
+	"address": "rue Marmontel",
+	"telephone": "0600000005",
+    "image": "https://onvaessayer.github.io/gitshareGitDataset1/songSan/image.jpg",
+	"items": [
+		"Dolsot poulet 12",
+		"Boulgogi 18",
+		"Boulgogi poulet 18"
+	]
+}
+
