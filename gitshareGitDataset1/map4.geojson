@@ -7,7 +7,7 @@
         "title": "Songsan",
         "description": "songSan/restaurant.json",
 		"infobox": true,
-        "fill": "#FF0000",
+        "fill": "#00FF00",
 		"image": "korean.png"
       },
       "geometry": {

@@ -6,8 +6,8 @@
       "properties": {
         "title": "Songsan",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/songSan/restaurant.json",
-        "fill": "#FF0000",
-		"infobox": "true",
+		"infobox": true,
+        "fill": "#00FF00",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/korean.png"
       },
       "geometry": {
@@ -19,8 +19,8 @@
       "properties": {
         "title": "le relais",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/relaisDeLaPlace/restaurant.json",
-        "fill": "#0000FF",
 		"infobox": true,
+        "fill": "#0000FF",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/pizza.png"
       },
       "geometry": {
@@ -32,8 +32,8 @@
       "properties": {
         "title": "Ristorante Roma",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/RistoranteRoma/restaurant.json",
-        "fill": "#ffa500",
 		"infobox": true,
+        "fill": "#ffa500",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/pizza.png"
       },
       "geometry": {
@@ -45,8 +45,8 @@
       "properties": {
         "title": "Indiana Cafe",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/IndianaCafe/restaurant.json",
-        "fill": "#FFFF00",
 		"infobox": true,
+        "fill": "#FFFF00",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/hamburger.png"
       },
       "geometry": {
@@ -58,8 +58,8 @@
       "properties": {
         "title": "Le Saotico",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/LeSaotico/restaurant.json",
-        "fill": "#008000",
 		"infobox": true,
+        "fill": "#008000",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/frenchFood.png"
       },
       "geometry": {
@@ -71,8 +71,8 @@
       "properties": {
         "title": "Dominos Pizza",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/DominosPizza/restaurant.json",
-        "fill": "#446d44",
 		"infobox": true,
+        "fill": "#446d44",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/pizza.png"
       },
       "geometry": {
@@ -84,8 +84,8 @@
       "properties": {
         "title": "Momoka",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/momoka/restaurant.json",
-        "fill": "#800000",
 		"infobox": true,
+        "fill": "#800000",
         "image": "https://onvaessayer.github.io/gitshareGitDataset1/icons/sushi.png"
       },
       "geometry": {

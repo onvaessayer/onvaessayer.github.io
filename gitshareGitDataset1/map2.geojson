@@ -7,7 +7,7 @@
         "title": "Songsan",
         "description": "https://onvaessayer.github.io/gitshareGitDataset1/songSan/restaurant.json",
 		"infobox": true,
-        "fill": "#FF0000",
+        "fill": "#00FF00",
 		"image": "korean.png"
       },
       "geometry": {
