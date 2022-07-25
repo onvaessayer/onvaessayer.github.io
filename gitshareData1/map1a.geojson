@@ -86,7 +86,7 @@
         "description": "https://onvaessayer.github.io/gitshareData1/momoka/restaurant.json",
 		
         "fill": "#800000",
-		"image": "sushi.png"
+		
       },
       "geometry": {
         "type": "Point","coordinates": [2.3334827,48.8791916]
