@@ -5,5 +5,5 @@
 	"telephone": "0600000005",
 	"image": "https://onvaessayer.github.io/gitshareGitDataset1/momoka/image.jpg",
 	"date":"2018 06 30",
-	"items": "I am a string, not a list of items"
+	"items": "item1, item2, ... as a string"
 }
