@@ -1,0 +1,26 @@
+{
+	"title": "palais Des Roses",
+	"description": "Fleuriste",
+	"address": "40 Rue Mathurin Régnier, 75015 Paris",
+	"telephone": "0600000003",
+	"image": "image.jpg",
+	"items": [
+	  {	"name": "bouquet 5","price": 17.50,
+		"ingredients": ["roses","branches"],
+		"image": "bouquet5CC.jpg"
+	  },
+	  { "name": "bouquet 6","price": 17.50,
+		"ingredients": [ "tulipes","mousse"],
+		"image": "bouquet6CC.jpg"
+	  },
+	  {	"name": "bouquet 7","price": 18,
+		"ingredients":["myosotis"],
+		"image":"bouquet7CC.png"
+	  },
+	  {	"name": "bouquet 9","price": 16.0,
+		"ingredients":["myosotis"],
+		"image":"bouquet9CC.jpg"
+	  }
+	]
+}
+

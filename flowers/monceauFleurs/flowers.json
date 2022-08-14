@@ -1,0 +1,22 @@
+{
+	"title": "Monceau Fleurs, Convention",
+	"description": "Fleuriste",
+	"address": "225 Rue de la Convention, 75015 Paris",
+	"telephone": "0600000003",
+	"image": "image.jpg",
+	"items": [
+	  {	"name": "bouquet 10","price": 19,
+		"ingredients": ["roses","branches"],
+		"image": "bouquet10CC.jpg"
+	  },
+	  { "name": "bouquet 11","price": 16.50,
+		"ingredients": [ "tulipes","mousse"],
+		"image": "bouquet11CC.jpg"
+	  },
+	  {	"name": "bouquet 12","price": 18,
+		"ingredients":["myosotis"],
+		"image":"bouquet12CC.jpg"
+	  }
+	]
+}
+

@@ -1,0 +1,22 @@
+{
+	"title": "happy fleurs",
+	"description": "Fleuriste",
+	"address": "53 Rue de Vouillé, 75015 Paris",
+	"telephone": "0600000003",
+	"image": "image.jpg",
+	"items": [
+	  {	"name": "Gysophiles","price": 19,
+		"ingredients": ["roses","branches"],
+		"image": "bouquet1.jpg"
+	  },
+	  { "name": "bouquet de roses","price": 21,
+		"ingredients": [ "tulipes"],
+		"image": "bouquet3.jpg"
+	  },
+	  {	"name": "bouquet de lys","price": 18,
+		"ingredients":["roses"],
+		"image":"bouquet3.jpg"
+	  }
+	]
+}
+

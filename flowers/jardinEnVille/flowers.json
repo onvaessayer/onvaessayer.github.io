@@ -1,0 +1,22 @@
+{
+	"title": "Jardin en ville",
+	"description": "Fleuriste",
+	"address": "7 place Jacques Marette, 75015 Paris",
+	"telephone": "0600000003",
+	"image": "image.jpg",
+	"items": [
+	  {	"name": "bouquet 1","price": 17.50,
+	  "ingredients": ["roses","branches"],
+		"image": "bouquet2CC.jpg"
+	  },
+	  { "name": "bouquet 2","price": 19,
+		"ingredients": [ "tulipes","mousse"],
+		"image": "bouquet3CC.jpg"
+	  },
+	  {	"name": "bouquet 3","price": 17.50,
+		"ingredients":["myosotis"],
+		"image":"bouquet4CC.jpg"
+	  }
+	]
+}
+

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "properties": {
+        "title": "palaisDesRoses",
+        "description": "palaisDesRoses/flowers.json",
+        "image": "icons/flower1.png",
+        "infobox": true, 
+		"draggable": false, 
+		"fill": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.308340,48.839008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Monceau Fleurs",
+        "description": "monceauFleurs/flowers.json",
+        "image": "icons/flower2.png",
+        "infobox": true, 
+		"draggable": false, 
+		"fill": "#0000FF"
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.2991657,48.836456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Au nom de la rose",
+        "description": "auNomDeLaRose/flowers.json",
+        "image": "icons/flower3.png",
+        "infobox": true, 
+		"draggable": false, 
+		"fill": "#0000FF"
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.301140,48.839409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Happy fleurs",
+        "description": "happyFleurs/flowers.json",
+        "image": "icons/flower4.png",
+        "infobox": true, 
+		"draggable": false, 
+		"fill": "#0000FF"
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.308910,48.833759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jardin en ville",
+        "description": "jardinEnVille/flowers.json",
+        "image": "icons/flower5.png",
+        "infobox": true, 
+		"draggable": false, 
+		"fill": "#0000FF"
+      },
+      "geometry": {
+        "type": "Point",
+		"coordinates": [2.3010813,48.8328868]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"title": "Au nom de la rose",
+	"description": "Fleuriste",
+	"address": "285 Rue de Vaugirard, 75015 Paris",
+	"telephone": "0600000003",
+	"image": "image.jpg",
+	"items": [
+	  {	"name": "Gysophiles","price": 19,
+		"ingredients": ["gysophyles","branches"],
+		"image": "bouquet13CC.jpg"
+	  },
+	  { "name": "bouquet de roses","price": 16.50,
+		"ingredients": [ "tulipes"],
+		"image": "bouquet14CC.jpg"
+	  },
+	  {	"name": "bouquet de lys","price": 18,
+		"ingredients":["roses"],
+		"image":"bouquet15CC.jpg"
+	  }
+	]
+}
+
