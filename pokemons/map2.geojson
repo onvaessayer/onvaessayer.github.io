@@ -1444,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "http://onvaessayer.github.io/pokemons/icons/Bug.svg",
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
         "draggable": "true",
         "infobox": "true",
         "fill": "#d7a7ff",
@@ -1474,7 +1474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "http://onvaessayer.github.io/pokemons/icons/Ground.svg",
+        "image": "https://onvaessayer.github.io/pokemons/icons/Ground.png",
         "draggable": "true",
         "infobox": "true",
         "fill": "#9e2727",
