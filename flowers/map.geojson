@@ -1,18 +1,22 @@
 {
   "type": "FeatureCollection",
   "features": [
-    { "type": "Feature",
+    {
+      "type": "Feature",
       "properties": {
         "title": "palaisDesRoses",
         "description": "palaisDesRoses/flowers.json",
         "image": "icons/flower1.png",
-        "infobox": true, 
-		"draggable": false, 
-		"fill": "#FFFF00"
+        "infobox": "true",
+        "draggable": "false",
+        "fill": "#1de262"
       },
       "geometry": {
         "type": "Point",
-		"coordinates": [2.308340,48.839008]
+        "coordinates": [
+          2.30834,
+          48.839008
+        ]
       }
     },
     {
@@ -21,13 +25,16 @@
         "title": "Monceau Fleurs",
         "description": "monceauFleurs/flowers.json",
         "image": "icons/flower2.png",
-        "infobox": true, 
-		"draggable": false, 
-		"fill": "#0000FF"
+        "infobox": "true",
+        "draggable": "false",
+        "fill": "#397cc6"
       },
       "geometry": {
         "type": "Point",
-		"coordinates": [2.2991657,48.836456]
+        "coordinates": [
+          2.2991657,
+          48.836456
+        ]
       }
     },
     {
@@ -36,13 +43,16 @@
         "title": "Au nom de la rose",
         "description": "auNomDeLaRose/flowers.json",
         "image": "icons/flower3.png",
-        "infobox": true, 
-		"draggable": false, 
-		"fill": "#0000FF"
+        "infobox": "true",
+        "draggable": "false",
+        "fill": "#dd22b8"
       },
       "geometry": {
         "type": "Point",
-		"coordinates": [2.301140,48.839409]
+        "coordinates": [
+          2.30114,
+          48.839409
+        ]
       }
     },
     {
@@ -51,13 +61,16 @@
         "title": "Happy fleurs",
         "description": "happyFleurs/flowers.json",
         "image": "icons/flower4.png",
-        "infobox": true, 
-		"draggable": false, 
-		"fill": "#0000FF"
+        "infobox": "true",
+        "draggable": "false",
+        "fill": "#e08e1f"
       },
       "geometry": {
         "type": "Point",
-		"coordinates": [2.308910,48.833759]
+        "coordinates": [
+          2.30891,
+          48.833759
+        ]
       }
     },
     {
@@ -66,13 +79,16 @@
         "title": "Jardin en ville",
         "description": "jardinEnVille/flowers.json",
         "image": "icons/flower5.png",
-        "infobox": true, 
-		"draggable": false, 
-		"fill": "#0000FF"
+        "infobox": "true",
+        "draggable": "false",
+        "fill": "#f8f107"
       },
       "geometry": {
         "type": "Point",
-		"coordinates": [2.3010813,48.8328868]
+        "coordinates": [
+          2.3010813,
+          48.8328868
+        ]
       }
     }
   ]
