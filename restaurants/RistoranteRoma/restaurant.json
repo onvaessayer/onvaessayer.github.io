@@ -7,17 +7,17 @@
     "email":"ristoranteRoma@paris.fr",
 	"items": [
 		{	"name": "pizza Margherita",	
-			"price": 8.40,
+			"price": 11.40,
 			"ingredients":["Mozarella","champignons","tomate"],
 			"image":"margherita.PNG"
 		},
 		{	"name": "tagliatelles carbonara",
-			"price": 7.90,
+			"price": 12.90,
 			"ingredients":["farine","viande hachée","tomate"],
 			"image":"carbonara.PNG"
 		},
 		{	"name": "Chianti",
-			"price": 13.5,
+			"price": 17.5,
 			"ingredients":["raisin","alcool","sulfites"],
 			"image":"chianti.jpg"
 		}
