@@ -6,7 +6,7 @@
       "properties": {
         "title": "palaisDesRoses",
         "description": "palaisDesRoses/flowers.json",
-        "image": "icons/flower1.png",
+        "image": "https://onvaessayer.github.io/icons/flower1.png",
         "draggable": "false",
         "fill": "#1de262"
       },
