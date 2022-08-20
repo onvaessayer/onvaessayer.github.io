@@ -7,7 +7,6 @@
         "title": "palaisDesRoses",
         "description": "palaisDesRoses/flowers.json",
         "image": "icons/flower1.png",
-        "infobox": "true",
         "draggable": "false",
         "fill": "#1de262"
       },
@@ -24,8 +23,7 @@
       "properties": {
         "title": "Monceau Fleurs",
         "description": "monceauFleurs/flowers.json",
-        "image": "icons/flower2.png",
-        "infobox": "true",
+        "image": "https://onvaessayer.github.io/icons/flower2.png",
         "draggable": "false",
         "fill": "#397cc6"
       },
@@ -42,8 +40,7 @@
       "properties": {
         "title": "Au nom de la rose",
         "description": "auNomDeLaRose/flowers.json",
-        "image": "icons/flower3.png",
-        "infobox": "true",
+        "image": "https://onvaessayer.github.io/icons/flower3.png",
         "draggable": "false",
         "fill": "#dd22b8"
       },
@@ -60,8 +57,7 @@
       "properties": {
         "title": "Happy fleurs",
         "description": "happyFleurs/flowers.json",
-        "image": "icons/flower4.png",
-        "infobox": "true",
+        "image": "https://onvaessayer.github.io/icons/flower4.png",
         "draggable": "false",
         "fill": "#e08e1f"
       },
@@ -78,8 +74,7 @@
       "properties": {
         "title": "Jardin en ville",
         "description": "jardinEnVille/flowers.json",
-        "image": "icons/flower5.png",
-        "infobox": "true",
+        "image": "https://onvaessayer.github.io/icons/flower5.png",
         "draggable": "false",
         "fill": "#f8f107"
       },
