@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "flour Bakery",
+        "description": "flourBakery/restaurant.json",
+        "fill": "#FF0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1225179,42.3730318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "cafe Luna",
+        "description": "cafeLuna/restaurant.json",
+        "fill": "#0000FF",
+        "image": "pizza.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0944,42.3629148]
+      }
+    }
+  ]
+}

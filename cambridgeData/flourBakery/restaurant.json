@@ -1,0 +1,32 @@
+
+{
+	"title": "Flour Bakery + Cafe",
+	"description": "sandwichs",
+	"address": "190 Massachusetts Ave, Cambridge, MA 02139, États-Unis",
+	"telephone": "0600000005",
+    "image": "image.jpg",
+	"items": [
+		{
+			"name": "soup of the day",
+			"price": 5,
+			"description"  : "vegetable soup",
+			"ingredients":["fennel","tomato"],
+			"image":"soup.PNG"
+		},
+		{
+			"name": "roast chicken ",
+			"price": 10,
+			"description"  : "roast chicken sandwich",
+			"ingredients":["mashed advocado","jicama","focaccia"],
+			"image":"chickenSandwich.PNG"
+		},
+		{
+			"name": "pizza 3 cheese",
+			"price": 7,
+			"description"  : "",
+			"ingredients":["chorizo","asparagus","mozarella","tomato"],
+			"image":"pizza.PNG"
+		}
+	]
+}
+

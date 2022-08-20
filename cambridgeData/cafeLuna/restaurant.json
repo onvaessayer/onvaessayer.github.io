@@ -1,0 +1,23 @@
+{
+	"title": "Café Luna",
+	"description": "Pizzeria",
+	"address": "612 Main St, Cambridge, MA 02139, États-Unis",
+    "telephone": "0600000002",
+	"image": "image.jpg",
+	"items": [
+	  {
+		"name": "wings and waffles",
+		"price": 16,
+		"description":"a double waffle with marinated chicken wings tossed in mango habanero",
+		"ingredients": ["chicken wings","Waffles"],
+		"image": "wingsAndWaffles.PNG"
+	  },
+	  {
+		"name": "grilled honey butter biscuits",
+		"price": 15,
+		"description":"house made fig jam, Lemon curd or mapple-bacon honey butter",
+		"ingredients": ["jam","mapple bacon","honey"],
+		"image": "grilledHoneyButter.PNG"
+	  }
+	]
+}
