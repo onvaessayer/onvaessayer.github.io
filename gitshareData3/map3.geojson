@@ -7,7 +7,7 @@
         "title": "Songsan",
         "description": "songSan/restaurant.json",
         "fill": "#00FF00",
-		"image": "attraction.svg"
+		"image": "https://onvaessayer.github.io/icons/korean.png"
       },
       "geometry": {
         "type": "Point","coordinates": [2.29935,48.836747]
