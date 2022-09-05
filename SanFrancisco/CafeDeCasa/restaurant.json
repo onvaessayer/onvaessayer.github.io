@@ -1,0 +1,37 @@
+{
+	"title": "Cafe De Casa",
+	"description": "Brazilian, Cafe",
+	"address": "1302 Columbus Ave, San Francisco, CA 94133, USA",
+    "telephone": "0600000002",
+	"image": "image.jpg",
+	"items": [
+	  {
+		"name": "Pão de Queijo",
+		"price": 4.50,
+		"description":"Gluten-free cheese roll, warm and chewy.",
+		"ingredients": ["Gluten-free","cheese"],
+		"image": "PaoDeQueijo.png"
+	  },
+	  {
+		"name": "Abraçadinho",
+		"price": 6.00,
+		"description":"Baked bread dough filled with ham, cheese, and chicken.",
+		"ingredients": ["bread","ham","cheese","chicken"],
+		"image": "Abracadinho.png"
+	  },
+	  {
+		"name": "Original Açaí Bowl (16oz)",
+		"price": 13.50,
+		"description":"Our signature açaí bowl. Blended with banana, strawberry, and homemade guarana. Topped with banana, strawberry, and granola.",
+		"ingredients": ["acai","banana","strawberry","granola"],
+		"image": "AcaíBowl.png"
+	  },
+	  {
+		"name": "Americano de Salsicha",
+		"price": 6.00,
+		"description":"Baked bread dough filled with turkey sausage, cheese, and tomato.",
+		"ingredients": ["bread","cheese","tomato"],
+		"image": "AmericanodeSalsicha.png"
+	  }
+	]
+}

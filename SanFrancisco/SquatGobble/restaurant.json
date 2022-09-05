@@ -1,0 +1,72 @@
+{
+	"title": "Squat & Gobble",
+	"description": "American",
+	"address": "2263 Chestnut St, San Francisco, CA 94123, États-Unis",
+    "telephone": "0600000002",
+	"image": "image.jpg",
+	"items": [
+	  {
+		"name": "French Onion  Soup",
+		"price": 7.20,
+		"description":"",
+		"ingredients": ["Onions", "Butter" , "Sugar", "Brandy", "Chicken Base", "Beef Base", "Flour", "Croutons Crumbs","Swiss Cheese"],
+		"image": "FrenchOnionSoup.png"
+	  },
+	  {
+		"name": "House Salad",
+		"price": 14.40,
+		"description":"",
+		"ingredients": ["Mixed Greens", "Cucumbers", "Carrots", "Tomatoes","Vinaigrette"],
+		"image": "HouseSalad.png"
+	  },
+	  {
+		"name": "Chicken Pesto Crepe",
+		"price": 21.54,
+		"description":"Served with House Potatoes & House Salad",
+		"ingredients": ["Chicken Breast", "Mozzarella Cheese", "Sun-dried Tomato" , "Pesto Sauce"],
+		"image": "ChickenPestoCrepe.png"
+	  },
+	  {
+		"name": "Shrimp Florentine Crepe",
+		"price": 23.94,
+		"description":"Served with House Potatoes & House Salad",
+		"ingredients": ["Shrimp", "Garlic", "Spinach", "Tomatoes", "Mushrooms", "Mozzarella Cheese" , "Pesto"],
+		"image": "ShrimpFlorentineCrepe.png"
+	  },
+	  {
+		"name": "BBQ Chicken Crepe",
+		"price": 21.54,
+		"description":"Served with House Potatoes & House Salad",
+		"ingredients": ["American Cheese", "Bell Peppers", "Onions", "Corn", "Cilantro" , "BBQ Sauce"],
+		"image": "BBQChickenCrepe.png"
+	  },
+	  {
+		"name": "Sweet As Apple Pie",
+		"price": 14.40,
+		"description":"Topped with Powdered Sugar and Served with Vanilla Bean Ice Cream on the Side",
+		"ingredients": ["Apple Compote", "Roasted Walnuts", "Brown Sugar" , "Cinnamon"],
+		"image": "SweetAsApplePie.png"
+	  },
+	  {
+		"name": "Strawberry Nutella",
+		"price": 14.40,
+		"description":"Topped with Powdered Sugar and Served with Vanilla Bean Ice Cream on the Side",
+		"ingredients": ["Strawberries", "Nutella","Strawberry Sauce"],
+		"image": "StrawberryNutella.png"
+	  },	  
+	  {
+		"name": "Bottled water",
+		"price": 2.40,
+		"description":"still water",
+		"ingredients": ["water"],
+		"image": "water.png"
+	  },
+	  {
+		"name": "apple juice",
+		"price": 4.20,
+		"description":"apple juice",
+		"ingredients": ["apple"],
+		"image": "appleJuice.png" 
+	  }
+	]
+}

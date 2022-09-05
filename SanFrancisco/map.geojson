@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe De Casa",
+        "description": "CafeDeCasa/restaurant.json",
+        "image": "hamburger.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41850329665324,37.80616251989683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thick chick",
+        "description": "ThickChick/restaurant.json",
+        "image": "hamburger.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41388922387878,37.808320666487276]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Sumac",
+        "description": "Sumac/restaurant.json",
+        "image": "sushi.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4172881500723,37.79957001030254]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Squat & Gobble",
+        "description": "SquatGobble/restaurant.json",
+        "image": "hamburger.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44055149947688,37.8013450790563]
+      }
+    }
+  ]
+}
