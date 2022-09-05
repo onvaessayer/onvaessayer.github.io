@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe De Casa",
+        "description": "CafeDeCasa/restaurant.json",
+        "image": "hamburger.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41854691739275,37.80603674371006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Golden Horse",
+        "description": "GoldenHorse/restaurant.json",
+        "image": "sushi.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41712382800644,37.79085918973795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thick chick",
+        "description": "Thickchick/restaurant.json",
+        "image": "hamburger.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41854691739275,37.80603674371006]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Sumac",
+        "description": "Sumac/restaurant.json",
+        "image": "sushi.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41731498819136,37.79971457448698]
+      }
+    }
+  ]
+}

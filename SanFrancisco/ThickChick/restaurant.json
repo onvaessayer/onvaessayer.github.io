@@ -1,0 +1,58 @@
+{
+	"title": "Thick Chick",
+	"description": "American, Cafe",
+	"address": "2660 Mason St, San Francisco, CA 94133, USA",
+    "telephone": "0600000002",
+	"image": "image.jpg",
+	"items": [
+	  {
+		"name": "The Classic",
+		"price": 10.79,
+		"description":"Our signature fried chicken served on a toasted bun and topped with pickles and mayonnaise.",
+		"ingredients": ["bread","chicken","pickles","mayonnaise"],
+		"image": "TheClassic.png"
+	  },
+	  {
+		"name": "The Og",
+		"price": 11.99,
+		"description":"Our signature fried chicken served on a toasted bun and topped with coleslaw, pickles, and mayonnaise.",
+		"ingredients": ["bread","chicken","coleslaw","pickles","mayonnaise"],
+		"image": "TheOg.png"
+	  },
+	  {
+		"name": "BBQ",
+		"price": 13.19,
+		"description":"Our signature fried chicken served on a toasted bun and topped with deep fried onionstrings, jalapeno, coleslaw, and barbecue sauce.",
+		"ingredients": ["bread","chicken","onion","jalapeno","coleslaw","mayonnaise"],
+		"image": "BBQ.png"
+	  },
+	  {
+		"name": "CLBT",
+		"price": 13.80,
+		"description":"Our signature fried chicken served on a toasted bun and topped with crisp bacon, lettuce, tomato, and mayo.",
+		"ingredients": ["bread","chicken","bacon","lettuce","tomato","mayonnaise"],
+		"image": "CLBT.png"
+	  },
+	  {
+		"name": "Southwestern",
+		"price": 6.00,
+		"description":"Our signature fried chicken served on a toasted bun and topped with pepper jack cheese, shredded slaw, tomato, guacamole, and mayonnaise.",
+		"ingredients": ["bread","chicken","cheese","slaw","tomato","guacamole","mayonnaise"],
+		"image": "Southwestern.png"
+	  },
+	  {
+		"name": "Onion Rings",
+		"price": 5.99,
+		"description":"",
+		"ingredients": ["onion"],
+		"image": "OnionRings.png"
+	  },
+	  {
+		"name": "coke",
+		"price": 3.00,
+		"description":"",
+		"ingredients": [],
+		"image": ""
+	  }
+	]
+}
