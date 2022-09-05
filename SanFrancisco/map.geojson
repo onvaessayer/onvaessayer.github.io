@@ -6,7 +6,7 @@
       "properties": {
         "title": "Cafe De Casa",
         "description": "CafeDeCasa/restaurant.json",
-        "image": "hamburger.png"
+        "image": "tacos.png"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "title": "Squat & Gobble",
         "description": "SquatGobble/restaurant.json",
-        "image": "hamburger.png"
+        "image": "crepe.png"
       },
       "geometry": {
         "type": "Point",
