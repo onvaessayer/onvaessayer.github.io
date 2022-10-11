@@ -1,0 +1,1505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Grass.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00FF00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "001.json",
+        "title": "Bulbasaur",
+        "nom": "Bulbizarre",
+        "items": [
+          "type : [Grass ,Poison]",
+          "HP : 45",
+          "Attack : 49",
+          "Defense : 49",
+          "Sp. Attack : 65",
+          "Sp. Defense : 65",
+          "Speed : 45"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32593,
+          48.82162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Grass.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00FF00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "002.json",
+        "title": "Ivysaur",
+        "nom": "Herbizarre",
+        "items": [
+          "type : [Grass ,Poison]",
+          "HP : 60",
+          "Attack : 62",
+          "Defense : 63",
+          "Sp. Attack : 80",
+          "Sp. Defense : 80",
+          "Speed : 60"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32808,
+          48.82513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Grass.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00FF00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "003.json",
+        "title": "Venusaur",
+        "nom": "Florizarre",
+        "items": [
+          "type : [Grass ,Poison]",
+          "HP : 80",
+          "Attack : 82",
+          "Defense : 83",
+          "Sp. Attack : 100",
+          "Sp. Defense : 100",
+          "Speed : 80"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32751,
+          48.81936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fire.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffce00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "004.json",
+        "title": "Charmander",
+        "nom": "Salamèche",
+        "items": [
+          "type : [Fire]",
+          "HP : 39",
+          "Attack : 52",
+          "Defense : 43",
+          "Sp. Attack : 60",
+          "Sp. Defense : 50",
+          "Speed : 65"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31738,
+          48.84937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fire.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffce00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "005.json",
+        "title": "Charmeleon",
+        "nom": "Reptincel",
+        "items": [
+          "type : [Fire]",
+          "HP : 58",
+          "Attack : 64",
+          "Defense : 58",
+          "Sp. Attack : 80",
+          "Sp. Defense : 65",
+          "Speed : 80"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318,
+          48.8509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fire.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffce00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "006.json",
+        "title": "Charizard",
+        "nom": "Dracaufeu",
+        "items": [
+          "type : [Fire,Flying]",
+          "HP: 78",
+          "Attack : 84",
+          "Defense : 78",
+          "Sp. Attack : 109",
+          "Sp. Defense : 85",
+          "Speed : 100"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32552,
+          48.85584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Water.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00baff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "007.json",
+        "title": "Squirtle",
+        "nom": "Carapuce",
+        "items": [
+          "type : [Water ]",
+          "HP: 44",
+          "Attack : 48",
+          "Defense : 65",
+          "Sp. Attack : 50",
+          "Sp. Defense : 64",
+          "Speed : 43"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30198,
+          48.84677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Water.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00baff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "008.json",
+        "title": "Wartortle",
+        "nom": "Carabaffe",
+        "items": [
+          "type : [Water]",
+          "HP: 59",
+          "Attack : 63",
+          "Defense : 80",
+          "Sp. Attack : 65",
+          "Sp. Defense : 80",
+          "Speed : 58"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32811,
+          48.84422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Water.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00baff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "009.json",
+        "title": "Blastoise",
+        "nom": "Tortank",
+        "items": [
+          "type : [Water]",
+          "HP: 79",
+          "Attack : 83",
+          "Defense : 100",
+          "Sp. Attack : 85",
+          "Sp. Defense : 105",
+          "Speed : 78"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29303,
+          48.81229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "010.json",
+        "title": "Caterpie",
+        "nom": "Chenipan",
+        "items": [
+          "type : [Bug]",
+          "HP: 45",
+          "Attack : 30",
+          "Defense : 35",
+          "Sp. Attack : 20",
+          "Sp. Defense : 20",
+          "Speed : 45"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29092,
+          48.85964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "011.json",
+        "title": "Metapod",
+        "nom": "Chrysacier",
+        "items": [
+          "type : [Bug]",
+          "HP: 50",
+          "Attack : 20",
+          "Defense : 55",
+          "Sp. Attack : 25",
+          "Sp. Defense : 25",
+          "Speed : 30"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31104,
+          48.81974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "012.json",
+        "title": "Butterfree",
+        "nom": "Papilusion",
+        "items": [
+          "type : [Bug,Flying]",
+          "HP: 60",
+          "Attack : 45",
+          "Defense : 50",
+          "Sp. Attack : 90",
+          "Sp. Defense : 80",
+          "Speed : 70"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32944,
+          48.81657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "013.json",
+        "title": "Weedle",
+        "nom": "Aspicot",
+        "items": [
+          "type : [Bug,Poison]",
+          "HP: 40",
+          "Attack : 35",
+          "Defense : 30",
+          "Sp. Attack : 20",
+          "Sp. Defense : 20",
+          "Speed : 50"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28158,
+          48.82221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "014.json",
+        "title": "Kakuna",
+        "nom": "Coconfort",
+        "items": [
+          "type : [Bug,Poison]",
+          "HP: 45",
+          "Attack : 25",
+          "Defense : 50",
+          "Sp. Attack : 25",
+          "Sp. Defense : 25",
+          "Speed : 35"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30615,
+          48.85795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "015.json",
+        "title": "Beedrill",
+        "nom": "Dardargnan",
+        "items": [
+          "type : [Bug,Poison]",
+          "HP: 65",
+          "Attack : 90",
+          "Defense : 40",
+          "Sp. Attack : 45",
+          "Sp. Defense : 80",
+          "Speed : 75"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32708,
+          48.83737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "016.json",
+        "title": "Pidgey",
+        "nom": "Roucool",
+        "items": [
+          "type : [Normal,Flying]",
+          "HP: 40",
+          "Attack : 45",
+          "Defense : 40",
+          "Sp. Attack : 35",
+          "Sp. Defense : 35",
+          "Speed : 56"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29872,
+          48.83182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "017.json",
+        "title": "Pidgeotto",
+        "nom": "Roucoups",
+        "items": [
+          "type : [Normal,Flying]",
+          "HP: 63",
+          "Attack : 60",
+          "Defense : 55",
+          "Sp. Attack : 50",
+          "Sp. Defense : 50",
+          "Speed : 71"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31975,
+          48.84544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "018.json",
+        "title": "Pidgeot",
+        "nom": "Roucarnage",
+        "items": [
+          "type : [Normal,Flying]",
+          "HP: 83",
+          "Attack : 80",
+          "Defense : 75",
+          "Sp. Attack : 70",
+          "Sp. Defense : 70",
+          "Speed : 101"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2877,
+          48.84108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "019.json",
+        "title": "Rattata",
+        "nom": "Rattata",
+        "items": [
+          "type : [Normal]",
+          "HP: 30",
+          "Attack : 56",
+          "Defense : 35",
+          "Sp. Attack : 25",
+          "Sp. Defense : 35",
+          "Speed : 72"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30267,
+          48.8198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "020.json",
+        "title": "Raticate",
+        "nom": "Rattatac",
+        "items": [
+          "type : [Normal]",
+          "HP: 55",
+          "Attack : 81",
+          "Defense : 60",
+          "Sp. Attack : 50",
+          "Sp. Defense : 70",
+          "Speed : 97"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30671,
+          48.82851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "021.json",
+        "title": "Spearow",
+        "nom": "Piafabec",
+        "items": [
+          "type : [Normal,Flying]",
+          "HP: 40",
+          "Attack : 60",
+          "Defense : 30",
+          "Sp. Attack : 31",
+          "Sp. Defense : 31",
+          "Speed : 70"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32518,
+          48.82951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "022.json",
+        "title": "Fearow",
+        "nom": "Rapasdepic",
+        "items": [
+          "type : [Normal,Flying]",
+          "HP: 65",
+          "Attack : 90",
+          "Defense : 65",
+          "Sp. Attack : 61",
+          "Sp. Defense : 61",
+          "Speed : 100"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31108,
+          48.82693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "023.json",
+        "title": "Ekans",
+        "nom": "Abo",
+        "items": [
+          "type : [Poison]",
+          "HP: 35",
+          "Attack : 60",
+          "Defense : 44",
+          "Sp. Attack : 40",
+          "Sp. Defense : 54",
+          "Speed : 55"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31258,
+          48.81389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "024.json",
+        "title": "Arbok",
+        "nom": "Arbok",
+        "items": [
+          "type : [Poison]",
+          "HP: 60",
+          "Attack : 95",
+          "Defense : 69",
+          "Sp. Attack : 65",
+          "Sp. Defense : 79",
+          "Speed : 80"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32604,
+          48.82451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Electric.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#fff500",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "025.json",
+        "title": "Pikachu",
+        "nom": "Pikachu",
+        "items": [
+          "type : [Electric]",
+          "HP: 35",
+          "Attack : 55",
+          "Defense : 40",
+          "Sp. Attack : 50",
+          "Sp. Defense : 50",
+          "Speed : 90"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32541,
+          48.81767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Electric.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#fff500",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "026.json",
+        "title": "Raichu",
+        "nom": "Raichu",
+        "items": [
+          "type : [Electric]",
+          "HP: 60",
+          "Attack : 90",
+          "Defense : 55",
+          "Sp. Attack : 90",
+          "Sp. Defense : 80",
+          "Speed : 110"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31702,
+          48.8399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Ground.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#9e2727",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "027.json",
+        "title": "Sandshrew",
+        "nom": "Sabelette",
+        "items": [
+          "type : [Ground]",
+          "HP: 50",
+          "Attack : 75",
+          "Defense : 85",
+          "Sp. Attack : 20",
+          "Sp. Defense : 30",
+          "Speed : 40"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3266,
+          48.84035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Ground.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#9e2727",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "028.json",
+        "title": "Sandslash",
+        "nom": "Sablaireau",
+        "items": [
+          "type : [Ground]",
+          "HP: 75",
+          "Attack : 100",
+          "Defense : 110",
+          "Sp. Attack : 45",
+          "Sp. Defense : 55",
+          "Speed : 65"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315,
+          48.81248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "029.json",
+        "title": "Nidoran♀",
+        "nom": "Nidoran♀",
+        "items": [
+          "type : [Poison]",
+          "HP: 55",
+          "Attack : 47",
+          "Defense : 52",
+          "Sp. Attack : 40",
+          "Sp. Defense : 40",
+          "Speed : 41"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28562,
+          48.81631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "030.json",
+        "title": "Nidorina",
+        "nom": "Nidorina",
+        "items": [
+          "type : [Poison]",
+          "HP: 70",
+          "Attack : 62",
+          "Defense : 67",
+          "Sp. Attack : 55",
+          "Sp. Defense : 55",
+          "Speed : 56"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30237,
+          48.81291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "031.json",
+        "title": "Nidoqueen",
+        "nom": "Nidoqueen",
+        "items": [
+          "type : [Poison,Ground]",
+          "HP: 90",
+          "Attack : 92",
+          "Defense : 87",
+          "Sp. Attack : 75",
+          "Sp. Defense : 85",
+          "Speed : 76"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3141,
+          48.85007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "032.json",
+        "title": "Nidoran♂",
+        "nom": "Nidoran♂",
+        "items": [
+          "type : [Poison]",
+          "HP: 46",
+          "Attack : 57",
+          "Defense : 40",
+          "Sp. Attack : 40",
+          "Sp. Defense : 40",
+          "Speed : 50"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31856,
+          48.84995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "033.json",
+        "title": "Nidorino",
+        "nom": "Nidorino",
+        "items": [
+          "type : [Poison]",
+          "HP: 61",
+          "Attack : 72",
+          "Defense : 57",
+          "Sp. Attack : 55",
+          "Sp. Defense : 55",
+          "Speed : 65"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29837,
+          48.84429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "034.json",
+        "title": "Nidoking",
+        "nom": "Nidoking",
+        "items": [
+          "type : [Poison,Ground]",
+          "HP: 81",
+          "Attack : 102",
+          "Defense : 77",
+          "Sp. Attack : 85",
+          "Sp. Defense : 75",
+          "Speed : 85"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32027,
+          48.8357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fairy.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffd700",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "035.json",
+        "title": "Clefairy",
+        "nom": "Mélofée",
+        "items": [
+          "type : [Fairy]",
+          "HP: 70",
+          "Attack : 45",
+          "Defense : 48",
+          "Sp. Attack : 60",
+          "Sp. Defense : 65",
+          "Speed : 35"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28205,
+          48.85671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fairy.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffd700",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "036.json",
+        "title": "Clefable",
+        "nom": "Mélodelfe",
+        "items": [
+          "type : [Fairy]",
+          "HP: 95",
+          "Attack : 70",
+          "Defense : 73",
+          "Sp. Attack : 95",
+          "Sp. Defense : 90",
+          "Speed : 60"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28609,
+          48.84803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fire.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffce00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "037.json",
+        "title": "Vulpix",
+        "nom": "Goupix",
+        "items": [
+          "type : [Fire]",
+          "HP: 38",
+          "Attack : 41",
+          "Defense : 40",
+          "Sp. Attack : 50",
+          "Sp. Defense : 65",
+          "Speed : 65"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30558,
+          48.85174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Fire.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#ffce00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "038.json",
+        "title": "Ninetales",
+        "nom": "Feunard",
+        "items": [
+          "type : [Fire]",
+          "HP: 73",
+          "Attack : 76",
+          "Defense : 75",
+          "Sp. Attack : 81",
+          "Sp. Defense : 100",
+          "Speed : 100"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31722,
+          48.83246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "039.json",
+        "title": "Jigglypuff",
+        "nom": "Rondoudou",
+        "items": [
+          "type : [Normal,Fairy]",
+          "HP: 115",
+          "Attack : 45",
+          "Defense : 20",
+          "Sp. Attack : 45",
+          "Sp. Defense : 25",
+          "Speed : 20"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29399,
+          48.81941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Normal.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#0027ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "040.json",
+        "title": "Wigglytuff",
+        "nom": "Grodoudou",
+        "items": [
+          "type : [Normal,Fairy]",
+          "HP: 140",
+          "Attack : 70",
+          "Defense : 45",
+          "Sp. Attack : 85",
+          "Sp. Defense : 50",
+          "Speed : 45"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29737,
+          48.84589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "041.json",
+        "title": "Zubat",
+        "nom": "Nosferapti",
+        "items": [
+          "type : [Poison,Flying]",
+          "HP: 40",
+          "Attack : 45",
+          "Defense : 35",
+          "Sp. Attack : 30",
+          "Sp. Defense : 40",
+          "Speed : 55"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3244,
+          48.83488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Poison.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#a93c6b",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "042.json",
+        "title": "Golbat",
+        "nom": "Nosferalto",
+        "items": [
+          "type : [Poison,Flying]",
+          "HP: 75",
+          "Attack : 80",
+          "Defense : 70",
+          "Sp. Attack : 65",
+          "Sp. Defense : 75",
+          "Speed : 90"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31853,
+          48.84164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Grass.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00FF00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "043.json",
+        "title": "Oddish",
+        "nom": "Mystherbe",
+        "items": [
+          "type : [Grass ,Poison]",
+          "HP: 45",
+          "Attack : 50",
+          "Defense : 55",
+          "Sp. Attack : 75",
+          "Sp. Defense : 65",
+          "Speed : 30"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32356,
+          48.85038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Grass.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00FF00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "044.json",
+        "title": "Gloom",
+        "nom": "Ortide",
+        "items": [
+          "type : [Grass ,Poison]",
+          "HP: 60",
+          "Attack : 65",
+          "Defense : 70",
+          "Sp. Attack : 85",
+          "Sp. Defense : 75",
+          "Speed : 40"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31932,
+          48.8408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Grass.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#00FF00",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "045.json",
+        "title": "Vileplume",
+        "nom": "Rafflesia",
+        "items": [
+          "type : [Grass ,Poison]",
+          "HP: 75",
+          "Attack : 80",
+          "Defense : 85",
+          "Sp. Attack : 110",
+          "Sp. Defense : 90",
+          "Speed : 50"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32203,
+          48.81648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "046.json",
+        "title": "Paras",
+        "nom": "Paras",
+        "items": [
+          "type : [Bug,Grass ]",
+          "HP: 35",
+          "Attack : 70",
+          "Defense : 55",
+          "Sp. Attack : 45",
+          "Sp. Defense : 55",
+          "Speed : 25"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28885,
+          48.83421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "047.json",
+        "title": "Parasect",
+        "nom": "Parasect",
+        "items": [
+          "type : [Bug,Grass ]",
+          "HP: 60",
+          "Attack : 95",
+          "Defense : 80",
+          "Sp. Attack : 60",
+          "Sp. Defense : 80",
+          "Speed : 30"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30187,
+          48.8289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "048.json",
+        "title": "Venonat",
+        "nom": "Mimitoss",
+        "items": [
+          "type : [Bug,Poison]",
+          "HP: 60",
+          "Attack : 55",
+          "Defense : 50",
+          "Sp. Attack : 40",
+          "Sp. Defense : 55",
+          "Speed : 45"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29839,
+          48.82031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Bug.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#d7a7ff",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "049.json",
+        "title": "Venomoth",
+        "nom": "Aéromite",
+        "items": [
+          "type : [Bug,Poison]",
+          "HP: 70",
+          "Attack : 65",
+          "Defense : 60",
+          "Sp. Attack : 90",
+          "Sp. Defense : 75",
+          "Speed : 90"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30404,
+          48.85391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://onvaessayer.github.io/pokemons/icons/Ground.png",
+        "draggable": "true",
+        "infobox": "true",
+        "fill": "#9e2727",
+        "stroke": "black",
+        "stroke-width": 4,
+        "description": "050.json",
+        "title": "Diglett",
+        "nom": "Taupiqueur",
+        "items": [
+          "type : [Ground]",
+          "HP: 10",
+          "Attack : 55",
+          "Defense : 25",
+          "Sp. Attack : 35",
+          "Sp. Defense : 45",
+          "Speed : 95"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30027,
+          48.8511
+        ]
+      }
+    }
+  ]
+}

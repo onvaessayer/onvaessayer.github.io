@@ -1,0 +1,333 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.32296412728976,48.8712003144188 ]
+    },
+    "properties": {
+    "title":"Bulbasaur",
+    "description":"Bulbizarre,Grass,45,49,49,45",
+    "image":"Grass.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#00FF00",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":1,
+    "nom":"Bulbizarre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.33740209618514,48.8313207075662 ]
+    },
+    "properties": {
+    "title":"Ivysaur",
+    "description":"Herbizarre,Grass,60,62,63,60",
+    "image":"Grass.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#00FF00",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":2,
+    "nom":"Herbizarre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.37435839759918,48.8458110455048 ]
+    },
+    "properties": {
+    "title":"Charmeleon",
+    "description":"Reptincel,Fire,58,64,58,80",
+    "image":"Fire.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#ffce00",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":5,
+    "nom":"Reptincel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.31072585806975,48.8441248534137 ]
+    },
+    "properties": {
+    "title":"Charizard",
+    "description":"Dracaufeu,Fire,78,84,78,100",
+    "image":"Fire.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#ffce00",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":6,
+    "nom":"Dracaufeu"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34360701998786,48.8341287239631 ]
+    },
+    "properties": {
+    "title":"Wartortle",
+    "description":"Carabaffe,Water,59,63,80,58",
+    "image":"Water.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#00baff",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":8,
+    "nom":"Carabaffe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.37847562460113,48.8445622791543 ]
+    },
+    "properties": {
+    "title":"Blastoise",
+    "description":"Tortank,Water,79,83,100,78",
+    "image":"Water.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#00baff",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":9,
+    "nom":"Tortank"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.31796688747257,48.8794370377309 ]
+    },
+    "properties": {
+    "title":"Caterpie",
+    "description":"Chenipan,Bug,45,30,35,45",
+    "image":"Bug.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#d7a7ff",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":10,
+    "nom":"Chenipan"
+    }
+  },
+ 
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.33615702701787,48.8690152408945 ]
+    },
+    "properties": {
+    "title":"Butterfree",
+    "description":"Papilusion,Bug,60,45,50,70",
+    "image":"Bug.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#d7a7ff",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":12,
+    "nom":"Papilusion"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.32154594898952,48.8726520741259 ]
+    },
+    "properties": {
+    "title":"Pidgeot",
+    "description":"Roucarnage,Normal,83,80,75,101",
+    "image":"Normal.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#0027ff",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":18,
+    "nom":"Roucarnage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.33223032532889,48.8234971851584 ]
+    },
+    "properties": {
+    "title":"Rattata",
+    "description":"Rattata,Normal,30,56,35,72",
+    "image":"Normal.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#0027ff",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":19,
+    "nom":"Rattata"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.32699314487242,48.8800548705988 ]
+    },
+    "properties": {
+    "title":"Pikachu",
+    "description":"Pikachu,Electric,35,55,40,90",
+    "image":"Electric.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#fff500",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":25,
+    "nom":"Pikachu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35875842046411,48.8526258508759 ]
+    },
+    "properties": {
+    "title":"Raichu",
+    "description":"Raichu,Electric,60,90,55,110",
+    "image":"Electric.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#fff500",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":26,
+    "nom":"Raichu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3769133797361,48.8342123363717 ]
+    },
+    "properties": {
+    "title":"Sandshrew",
+    "description":"Sabelette,Ground,50,75,85,40",
+    "image":"Ground.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#9e2727",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":27,
+    "nom":"Sabelette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3182597902577,48.8631094155395 ]
+    },
+    "properties": {
+    "title":"Sandslash",
+    "description":"Sablaireau,Ground,75,100,110,65",
+    "image":"Ground.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#9e2727",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":28,
+    "nom":"Sablaireau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.30522862552042,48.8662335080644 ]
+    },
+    "properties": {
+    "title":"Nidoran",
+    "description":"Nidoran,Poison,55,47,52,41",
+    "image":"Poison.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#a93c6b",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":29,
+    "nom":"Nidoran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.378320633051,48.8623371954285 ]
+    },
+    "properties": {
+    "title":"Nidorina",
+    "description":"Nidorina,Poison,70,62,67,56",
+    "image":"Poison.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#a93c6b",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":30,
+    "nom":"Nidorina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.36632286010057,48.8309533125832 ]
+    },
+    "properties": {
+    "title":"Nidoqueen",
+    "description":"Nidoqueen,Poison,90,92,87,76",
+    "image":"Poison.svg",
+    "draggable":"true",
+    "infobox":"true",
+    "fill":"#a93c6b",
+    "stroke":"black",
+    "stroke-width":6,
+    "id":31,
+    "nom":"Nidoqueen"
+    }
+  }
+
+]
+}
