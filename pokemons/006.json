@@ -1,0 +1,15 @@
+  {
+    "image": "006.png",
+    "title": "Charizard",
+    "nom": "Dracaufeu",
+    "description":"[Fire,Flying]",
+    "items": [
+      "HP: 78",
+      "Attack : 84",
+      "Defense : 78",
+      "Sp. Attack : 109",
+      "Sp. Defense : 85",
+      "Speed : 100"
+    ]
+  }
+ 

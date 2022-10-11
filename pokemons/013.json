@@ -1,0 +1,14 @@
+  {
+    "image": "013.png",
+    "title": "Weedle",
+    "nom": "Aspicot",
+    "description":"[Bug,Poison]",
+    "items": [
+      "HP: 40",
+      "Attack : 35",
+      "Defense : 30",
+      "Sp. Attack : 20",
+      "Sp. Defense : 20",
+      "Speed : 50"
+    ]
+  }

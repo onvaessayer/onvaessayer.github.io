@@ -1,0 +1,15 @@
+  {
+    "image": "001.png",
+    "title": "Bulbasaur",
+    "nom": "Bulbizarre",
+    "description":"[Grass ,Poison]",
+    "items": [
+      "HP : 45",
+      "Attack : 49",
+      "Defense : 49",
+      "Sp. Attack : 65",
+      "Sp. Defense : 65",
+      "Speed : 45"
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+  {
+    "image": "017.png",
+    "title": "Pidgeotto",
+    "nom": "Roucoups",
+    "description":"[Normal,Flying]",
+    "items": [
+      "HP: 63",
+      "Attack : 60",
+      "Defense : 55",
+      "Sp. Attack : 50",
+      "Sp. Defense : 50",
+      "Speed : 71"
+    ]
+  }
