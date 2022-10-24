@@ -1,0 +1,22 @@
+{
+	"title": "Dominos_Pizza",
+	"description": "Pizzeria",
+	"address": "rue Parmentier, 75011 Paris",
+    "telephone": "0600000002",
+	"image": "https://onvaessayer.github.io/gitshareData2/DominosPizza/image.jpg",
+	"items": [
+	  {
+		"name": "pizza basique",
+		"price": 8.60,
+		"ingredients": ["farine","Mozarella","champignons","tomate"],
+		"image": "https://onvaessayer.github.io/gitshareData2/DominosPizza/pizza.PNG"
+	  },
+	  {
+		"name": "pizza super Veggie",
+		"price": 10.25,
+		"ingredients": ["Sauce tomate","mozzarella","tomates cerises",
+		  "poivrons","oignons","pousses d'épinards","olives"],
+		"image": "https://onvaessayer.github.io/gitshareData2/DominosPizza/superVeggie.PNG"
+	  }
+	]
+}
