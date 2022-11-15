@@ -6,7 +6,8 @@
       "properties": {
         "title": "flour Bakery",
         "description": "flourBakery/restaurant.json",
-        "fill": "#FF0000"
+        "fill": "#FF0000",
+        "image": "frenchFood.png"
       },
       "geometry": {
         "type": "Point",
