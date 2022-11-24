@@ -1,5 +1,5 @@
 {
-	" select catalog":"",
+	"-select catalog-":"",
 	"flowers":"https://onvaessayer.github.io/flowers/map.geojson",
 	"Paris restaurants":"https://onvaessayer.github.io/gitshareData3/map3.geojson",
 	"Dropbox restaurants":"https://www.dropbox.com/s/p8oizwazpme7xpq/map.json?dl=1",
