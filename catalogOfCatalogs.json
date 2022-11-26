@@ -1,7 +1,7 @@
 {
 	"-select catalog-":"",
 	"flowers":"https://onvaessayer.github.io/flowers/map.geojson",
-	"Paris restaurants":"https://onvaessayer.github.io/gitshareData3/map3.geojson",
+	"Paris restaurants":"https://onvaessayer.github.io/gitshareData3/map.geojson",
 	"Dropbox restaurants":"https://www.dropbox.com/s/p8oizwazpme7xpq/map.json?dl=1",
 	"Google Drive restaurant": "https://drive.google.com/file/d/1im0UjN6umweZR7nJ1egobKk9edIGO5gK/view?usp=sharing",
 	"Cambridge restaurants":"https://onvaessayer.github.io/cambridgeData/map.geojson",
